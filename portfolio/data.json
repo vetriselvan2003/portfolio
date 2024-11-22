@@ -1,0 +1,79 @@
+{
+    "about": [
+        {
+            "title": "INTERNSHIP",
+            "description": "Completed 'Python Full Stack' internship with Besant Technologies mastering skills from Jan 22th to Jun 2024."
+        },
+        {
+            "title": "SERVICES",
+            "description": "As a proficient web developer, I bring a comprehensive skill set to the table, ensuring the creation of dynamic and responsive websites tailored to meet business needs."
+        },
+        {
+            "title": "QUALIFICATION",
+            "description": "Bachelor of Engineering: Government College of Engineering, Bodinayakanur, Theni. Computer Science, 2020 - 2024."
+        },
+        { 
+            "title": "PROJECT EXPERIENCE",
+            "description": "Led a team to develop a Tamil Nadu government scheme-based chatbot web application during pre-final year, utilizing HTML, CSS, JavaScript, and Python to find eligible government schemes."
+    }  
+    ],
+
+    
+    "skills": [
+            {
+                "title": "HTML5"
+            },
+            {
+                "title": "CSS3"
+            },
+            {
+                "title": "JavaScript"
+            },
+            {
+                "title": "Bootstrap"
+            },
+            {
+                "title": "React JS"
+            },
+            {
+                "title": "Python"
+            },
+            {
+                "title": "SQL"
+            },
+            {
+                "title": "Django"
+            },
+            {
+                "title": "CRUD"
+            },
+            {
+                "title": "OOPS"
+            }
+           
+        ],
+        
+            "projects": [
+                {
+                    "title": "Python Assistant",
+                    "description": "Created a web application for an interactive Python assistant during my pre-final year, utilizing HTML, CSS, and JavaScript to enhance user interaction and functionality.",
+                    "image": "chatbot.png",
+                    "link": "https://vetriselvanportfolio.netlify.app/"
+                },
+                {
+                    "title": "Personal Portfolio",
+                    "description": "The portfolio was designed to showcase my skills, projects, and achievements in a clean and structured manner, without dynamic features or animations. This project focused on creating a simple, yet effective, web presence to highlight my abilities in front-end development.",
+                    "image": "portfolio.jpeg",
+                    "link": ""
+                },
+                { 
+                    "title": "Todo List", 
+                    "description": "Created using Django, this project implements CRUD operations (Create, Read, Update, Delete) to manage tasks efficiently. Users can add new tasks, view existing ones, modify details, and delete tasks as needed, providing a practical solution for task management.", 
+                    "image": "todo_list.jpeg", 
+                    "link": "https://github.com/vetriselvan2003/todo_list"
+                }
+            ]
+        
+        
+    
+}
